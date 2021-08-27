@@ -1,10 +1,10 @@
-package com.cjf.crossafterdubbo;
+package com.cjf.user;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CrossafterDubboApplicationTests {
+class UserApplicationTests {
 
     @Test
     void contextLoads() {
