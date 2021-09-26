@@ -8,10 +8,10 @@ import java.util.concurrent.ThreadPoolExecutor;
 
 @SpringBootTest
 public class TestDemo {
-    @Autowired
-    private ThreadPoolExecutor threadPoolExecutor;
-    @Test
-    public void test(){
-        System.out.println("COREPOOLSIZE="+threadPoolExecutor.getPoolSize());
-    }
+//    @Autowired
+//    private ThreadPoolExecutor threadPoolExecutor;
+//    @Test
+//    public void test(){
+//        System.out.println("COREPOOLSIZE="+threadPoolExecutor.getPoolSize());
+//    }
 }
